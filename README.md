@@ -12,7 +12,7 @@ Hi my name is Fathan! im a Software Engineer
 
 <h2>Other Skills : </h2>
 
-IOT(Internet Of Things), 3D Design(Blender, 3D Maya), Adobe Premiere Pro, Adobe PhotoShop, Adobe Illustrator, Pro Player Valorant (Immortal), CSGO (Legendary Eagle)
+IOT(Internet Of Things), 3D Design(Blender, 3D Maya), Adobe Premiere Pro, Adobe PhotoShop, Adobe Illustrator, FL Studio, Every Video Editing Program, Pro Player Valorant (Immortal), CSGO (Legendary Eagle)
 
 <h2>contact me : </h2>
 
