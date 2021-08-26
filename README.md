@@ -11,5 +11,5 @@ Frameworks :
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFznnknkj3MkfJ4D2aBxi9AjIaD_YxNhu5tTdLKAZTd0lK7ALAQ7VUZLvtgvpIUpzjKDY&usqp=CAU" width="50" height="50"/> <img src="https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg" width="50" height="50"/> <img src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j.jpg" width="50" height="50"/> <img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" width="50" height="50"/> <img src="https://avatars.githubusercontent.com/u/2624634?s=280&v=4" width="50" height="50"/> 
 
 contact me:
-<a>fathan.a.dev@gmail.com</a>
+<a href="fathan.a.dev@gmail.com">email</a>
 
