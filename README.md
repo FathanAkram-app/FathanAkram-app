@@ -12,7 +12,7 @@ Hi my name is Fathan! im a Software Engineer
 
 <h2>contact me : </h2>
 
-email : <a>fathan.a.dev@gmail.com</a>
+Email : <a>fathan.a.dev@gmail.com</a>
 
 Instagram : <a href="https://www.instagram.com/fthn.exe/">@fthn.exe</a>
 
