@@ -1,7 +1,5 @@
 ![Alt Text](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 
-<p id="hello">Hello World!</p>
-
 
 Hi my name is Fathan! im a Software Engineer
 
@@ -19,6 +17,4 @@ Email : <a>fathan.a.dev@gmail.com</a>
 
 Instagram : <a href="https://www.instagram.com/fthn.exe/">@fthn.exe</a>
 
-<script>
-  document.getElementById("hello").innerText = "hello"
-</script>
+
