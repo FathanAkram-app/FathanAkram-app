@@ -1,9 +1,10 @@
 ![Alt Text](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathanAkram-app)](https://github.com/FathanAkram-app/github-readme-stats)
+
 
 Hi my name is Fathan! im a Software Engineer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathanAkram-app)](https://github.com/FathanAkram-app/github-readme-stats)
 
 <h2>languages :</h2>
 
