@@ -3,6 +3,7 @@
   # Hi, I'm Fathan 👋
   👨‍💻 Software Engineer · Backend | Frontend | Fullstack  
   Currently building **BitSub** — a Bitcoin-based subscription platform 🟡
+  and **P.A.S.E** — an NFT based pet game 🟡
 </div>
 
 
@@ -31,16 +32,15 @@
 ## 🧠 Interests
 
 - Blockchain & Web3 Development  
-- Fullstack App Building  
-- Motion & 3D Design (Blender, Adobe Suite)  
-- Game-level Competitive Play (Valorant Immortal, CS:GO LE)
+- Fullstack App Development  
+- 3D Design (Blender)  
 
 ---
 
 ## ⚡ Current Focus
 
-Working on **[BitSub](https://github.com/FathanAkram-app/BitSub)** — a decentralized Bitcoin-powered subscription system built with Motoko on the Internet Computer.
-
+**[BitSub](https://github.com/FathanAkram-app/BitSub)** — a decentralized Bitcoin-powered subscription system built with Motoko on the Internet Computer.
+**[P.A.S.E]([https://github.com/FathanAkram-app/BitSub](https://github.com/FathanAkram-app/P.A.S.E))** — A next-generation digital pet NFT game built with React, featuring real-time AI chat, 1v1 battle arena, and blockchain integration. Your Pet Animal Space Entity lives, grows, and battles in a beautiful cosmic universe.
 ---
 
 ## 📬 Contact
