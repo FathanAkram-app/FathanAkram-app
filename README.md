@@ -3,8 +3,10 @@
 # 👋 Hi, I'm **Fathan**  
 👨‍💻 **Software Engineer** | Backend · Frontend · Fullstack  
 
-🚀 Currently building **BitSub** — a Bitcoin-based subscription platform 🟡  
-🎮 and **P.A.S.E** — an NFT-based pet game 🐾  
+🌍 Currently building **CROW** — Civic Regen Open Wallet (verifiable actions & transparent micro-payments)
+🚀 and **BitSub** — a Bitcoin-based subscription platform 🟡  
+🎮 plus **P.A.S.E** — an NFT-based pet game 🐾  
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FathanAkram-app&style=flat-square&color=blue)
 
@@ -39,6 +41,16 @@
 ---
 
 ## ⚡ **Current Focus**
+
+- **[CROW](https://github.com/FathanAkram-app/CROW)** *(repo link placeholder — update after push)*  
+  **Civic Regen Open Wallet** — pays micro-rewards for **verifiable regenerative actions** (planting trees, river cleanup, composting).  
+  Tech: **React**, **NestJS**, **Solidity (Hardhat)**, **IPFS**, **Veramo (DID/VC)**.  
+  Key features:
+  - 📸 **Proof-of-Action** (photo + geotag + timestamp) saved to **IPFS**
+  - 🛡 **Community validation** (2/3 approvals) + **AI anti-fraud** with XAI reasons
+  - 💸 **Escrow payouts** (e.g., USDC) with on-chain transparency
+  - 🗺 **Public dashboard**: live map, fund flow, impact metrics (e.g., CO₂e)
+  
 - **[BitSub](https://github.com/FathanAkram-app/BitSub)**  
   A decentralized Bitcoin-powered subscription system built with **Motoko** on the **Internet Computer**.
 
@@ -46,7 +58,8 @@
   A next-gen digital pet NFT game built with **React**, featuring:
   - Real-time **AI chat**
   - **1v1 Battle Arena**
-  - Full **Blockchain Integration**  
+  - Full **Blockchain Integration**
+
 
 ---
 
