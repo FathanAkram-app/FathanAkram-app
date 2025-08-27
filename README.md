@@ -42,7 +42,7 @@
 
 ## ⚡ **Current Focus**
 
-- **[CROW](https://github.com/FathanAkram-app/CROW)** *(repo link placeholder — update after push)*  
+- **[CROW](https://github.com/FathanAkram-app/CROW)**
   **Civic Regen Open Wallet** — pays micro-rewards for **verifiable regenerative actions** (planting trees, river cleanup, composting).  
   Tech: **React**, **NestJS**, **Solidity (Hardhat)**, **IPFS**, **Veramo (DID/VC)**.  
   Key features:
